@@ -1,1 +1,4 @@
-eol lf
+## Convert to Linux Line Endings
+text eol=lf
+
+.tex text
